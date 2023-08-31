@@ -1,4 +1,4 @@
-package org.collections.list;
+package org.collections.list.basicoperations;
 
 public class Task {
 
